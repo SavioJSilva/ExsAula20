@@ -11,14 +11,14 @@ def contador(i, f, p):
     sleep(2.5)
 
     if i < f:
-        cont = 1
+        cont = i
         while cont <= f:
             print(f'{cont} ', end='', flush=True)
             sleep(0.5)
             cont += p
         print('FIM')
     else:
-        cont = 1
+        cont = i
         while cont >= f:
             print(f'{cont} ', end='', flush=True)
             sleep(0.5)
