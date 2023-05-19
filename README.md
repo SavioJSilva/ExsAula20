@@ -9,4 +9,6 @@ a) de 1 até 10, de 1 em 1
 b) de 10 até 0, de 2 em 2                                                                                                                                            
 c) uma contagem personalizada
 
-Exercicio 04:
+Exercicio 04: Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
+
+Exercicio 05: 
